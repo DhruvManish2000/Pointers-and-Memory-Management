@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dhruvmanish/CLionProjects/LAB04_2/buffer.c
+stdio.h
+-
+stdlib.h
+-
+io.h
+/Users/dhruvmanish/CLionProjects/LAB04_2/io.h
+memory.h
+/Users/dhruvmanish/CLionProjects/LAB04_2/memory.h
+buffer.h
+/Users/dhruvmanish/CLionProjects/LAB04_2/buffer.h
+
+/Users/dhruvmanish/CLionProjects/LAB04_2/buffer.h
+
+/Users/dhruvmanish/CLionProjects/LAB04_2/io.h
+
+/Users/dhruvmanish/CLionProjects/LAB04_2/memory.h
+
